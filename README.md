@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kabindra Pant
 
-<!--
-**kPANTA12/KPANTA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Machine Learning Engineer | Python Developer | Electronics Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on: **100 Days of Machine Learning Challenge**
+- 🌱 Learning: Python, Data Science, and Deep Learning
+- 💡 Interested in: AI, Robotics, and Embedded Systems
+- 💬 Ask me about: Python, C++, Digital Logic
+- ⚡ Fun fact: I love exploring new technologies and teaching others!
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** Python, C++, C
+- **Tools:** Jupyter Notebook, Git, VS Code
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
+
+---
+
+### 📈 GitHub Stats
+![Kabindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabindrapant&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabindrapant&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/kabindrapant)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kPANTA12)

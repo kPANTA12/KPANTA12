@@ -21,9 +21,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Kabindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabindrapant&show_icons=true&theme=radical)
+![Kabindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kPANTA12&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabindrapant&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kPANTA12&layout=compact&theme=radical)
 
 ---
 

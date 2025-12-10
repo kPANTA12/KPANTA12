@@ -21,12 +21,13 @@
 ---
 
 ### 📈 GitHub Stats
-![Kabindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kPANTA12&show_icons=true&theme=radical)
+![Kabindra's GitHub Stats](https://github-readme-stats-kappa-virid.vercel.app/api?username=kPANTA12&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kPANTA12&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-kappa-virid.vercel.app/api/top-langs/?username=kPANTA12&layout=compact&theme=radical)
+
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/kabindrapant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kabindrapant)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kPANTA12)

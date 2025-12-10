@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 I’m currently working on: **100 Days of Machine Learning Challenge**
 - 🌱 Learning: Python, Data Science, and Deep Learning
 - 💡 Interested in: AI, Robotics, and Embedded Systems
@@ -13,22 +13,31 @@
 
 ---
 
-### 🧰 Tech Stack
-- **Languages:** Python, C++, C
-- **Tools:** Jupyter Notebook, Git, VS Code
-- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
+## 🧰 Tech Stack
+**Languages:** Python, C++, C  
+**Tools:** Jupyter Notebook, Git, VS Code  
+**Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
 
 ---
 
-### 📈 GitHub Stats
-![Kabindra's GitHub Stats](https://github-readme-stats-h74s.onrender.com/api?username=kPANTA12&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats-h74s.onrender.com/api/top-langs/?username=kPANTA12&layout=compact&theme=radical)
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=kPANTA12&theme=radical&hide_border=false)
 
+### 📊 General Stats  
+*(Never breaks — served from GitHub directly)*  
+![Kabindra's GitHub Stats](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Kabindra's GitHub Stats](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-light-mode-only)
 
+### 📝 Top Languages  
+![Top Langs](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kabindrapant)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kPANTA12)
+
+---

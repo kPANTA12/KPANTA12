@@ -27,12 +27,12 @@
 
 ### 📊 General Stats  
 *(Never breaks — served from GitHub directly)*  
-![Kabindra's GitHub Stats](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Kabindra's GitHub Stats](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kPANTA12&show_icons=true&theme=tokyonight)
 
 ### 📝 Top Languages  
-![Top Langs](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Top Langs](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/languages.svg#gh-light-mode-only)
+📊 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kPANTA12&layout=compact&theme=tokyonight)
+
 
 ---
 

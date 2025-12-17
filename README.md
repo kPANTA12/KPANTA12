@@ -25,11 +25,9 @@
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=kPANTA12&theme=radical&hide_border=false)
 
-### 📊 General Stats  
-*(Never breaks — served from GitHub directly)*  
+### 📊 General Stats   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kPANTA12&show_icons=true&theme=tokyonight)
 
-### 📝 Top Languages  
 📊 **Top Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kPANTA12&layout=compact&theme=tokyonight)
 
